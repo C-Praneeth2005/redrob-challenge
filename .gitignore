@@ -15,3 +15,6 @@ __pycache__/
 scratch/
 .idea/
 .vscode/
+
+# Presentation decks
+team_antigravity_deck.pdf
