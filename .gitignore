@@ -17,4 +17,5 @@ scratch/
 .vscode/
 
 # Presentation decks
-team_antigravity_deck.pdf
+team_antigravity_deck*.pdf
+team_antigravity_deck*.pptx
