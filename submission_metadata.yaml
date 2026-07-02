@@ -6,7 +6,7 @@
 # ============================================================================
 # Team identity
 # ============================================================================
-team_name: "Praneeth Chellapalli"  # Used in leaderboard and announcements
+team_name: "Praneeth Chellapalli Team"  # Used in leaderboard and announcements
 
 primary_contact:
   name: "Praneeth Chellapalli"
@@ -30,7 +30,7 @@ sandbox_link: "https://github.com/C-Praneeth2005/redrob-challenge#sandbox-enviro
 # candidate sample. See Section 10.5 of submission_spec.md for acceptable
 # platforms (HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder).
 
-reproduce_command: "python rank.py --candidates ./candidates.jsonl --out './Praneeth Chellapalli.csv'"
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out './Praneeth Chellapalli Team.csv'"
 # The single command that produces submission.csv from candidates.jsonl.
 # Should run end-to-end within 5 minutes on CPU with 16GB RAM and no network.
 
