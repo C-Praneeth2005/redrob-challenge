@@ -1,0 +1,17 @@
+# Data files (do not commit to Git - too large!)
+candidates.jsonl
+candidates.jsonl.gz
+sample_candidates.json
+
+# Excel and CSV outputs (these can be generated)
+*.xlsx
+*.csv
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local scratch files
+scratch/
+.idea/
+.vscode/
